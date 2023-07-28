@@ -4,4 +4,4 @@ Frappe Code Snippets
 
 #### License
 
-MIT
+MIT#frappe_resource 
